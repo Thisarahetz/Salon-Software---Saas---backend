@@ -1,1 +1,1 @@
-# Spa & Salon Management System
+Spa & Salon Management System
